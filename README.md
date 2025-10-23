@@ -1,4 +1,3 @@
-
 # 🍕 Pizza Sales - Data Analysis Project using MySQL
 
 ## 📌 Introduction 
@@ -6,9 +5,9 @@ This project presents a comprehensive Pizza Sales Analysis using MySQL. It explo
 
 ### 🎯 Purpose
 The purpose of this project is to: 
-- Extract actionable insights from structured sales data.
-- Build a foundation for data-driven decision-making in retail and food service domains.
-- Showcase the ability to design queries that span from basic aggregations to advanced window functions and joins.
+- Extract actionable insights from structured sales data
+- Build a foundation for data-driven decision-making in retail and food service domains
+- Showcase the ability to design queries that span from basic aggregations to advanced window functions and joins
 
 ---
 
@@ -40,37 +39,37 @@ The business goal is to help the pizza store by:
 
 ---
 
-## 📊 Report Screenshots 
+## 📸 Query Preview & Output 
 
 **Data Model**
 ![Preview](https://github.com/Shivam4410/Pizza-Sales-Data-Analysis-Using-MySQL/blob/main/Data%20Model.png)
 **Total_orders**
 ![Preview](https://github.com/Shivam4410/Pizza-Sales-Data-Analysis-Using-MySQL/blob/main/Total_orders.png)
 
-> ⚡ Note: The Screenshots shared here are just an overview of my analysis. For a detailed breakdown of each business question and its corresponding SQL solution, please refer to the attached PDF file named Pizza_sales in this repository.  
+> ⚡ Note: The Screenshots shared here are just an overview of my analysis. For a detailed breakdown of each business question and its corresponding SQL solution, please refer to the attached PDF file named Pizza_sales in this repository
 
 ---
 
 ## 🛠️ Tech Stack 
 
-- SQL (MySQL): Core language for querying and analyzing data.
-- Database Design: Star schema with fact and dimension tables.
-- PDF Documentation: For query results and visual summaries.
-- CSV Files: Used for structured data input (orders, pizzas, pizza types, order details).
+- **SQL (MySQL)**: Core language for querying and analyzing data
+- **Database Design**: Star schema with fact and dimension tables
+- **PDF Documentation**: For query results and visual summaries
+- **CSV Files**: Used for structured data input (orders, pizzas, pizza types, order details)
 
 ---
 
 ## 🚀 Recommendations / Insights
-1. Focus on Large Size Pizzas: L-size pizzas dominate sales—optimize inventory accordingly.
-2. Top Performers: The Thai Chicken Pizza and Classic Deluxe Pizza are top revenue generators—consider promoting them.
-3. Peak Hours: Most orders occur between 12 PM and 7 PM—staffing and prep should be optimized during these hours.
-4. Category Strategy: Classic and Supreme pizzas contribute the most to revenue—expand offerings in these categories.
-5. Revenue Growth: Cumulative revenue shows consistent daily growth—track seasonal spikes for campaign planning.
+1. **Focus on Large Size Pizzas**: L-size pizzas dominate sales —> optimize inventory accordingly
+2. **Top Performers**: The Thai Chicken Pizza and Classic Deluxe Pizza are top revenue generators —> consider promoting them
+3. **Peak Hours**: Most orders occur between 12 PM and 7 PM —> staffing and prep should be optimized during these hours
+4. **Category Strategy**: Classic and Supreme pizzas contribute the most to revenue —> expand offerings in these categories
+5. **Revenue Growth**: Cumulative revenue shows consistent daily growth —> track seasonal spikes for campaign planning
 
 ---
 
 ## 📌 Conclusion 
-This MySQL-based Pizza Sales Analysis project demonstrates how structured data and well-crafted queries can unlock valuable business insights. By answering key operational and strategic questions, the project showcases the practical application of SQL in retail analytics. It’s a great example of how data analysis can drive smarter decisions, improve customer satisfaction, and boost profitability.
+This project demonstrates how structured data and well-crafted queries can unlock valuable business insights. By answering key operational and strategic questions, the project showcases the practical application of SQL in retail analytics. It’s a great example of how data analysis can drive smarter decisions, improve customer satisfaction and boost profitability
 
 
 ---
